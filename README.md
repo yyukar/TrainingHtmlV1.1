@@ -1,5 +1,5 @@
-# kodluyoruz-html-odev2
-## odev2
+﻿# first website upgrade
+ [patika](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 -------------------------
 
 ![ss](odev2.jpg)
